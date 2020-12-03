@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2020-12-03 13:58:03 -0800
+categories: io update
+---
+Welcome to BMG Games.
+
+Stay tuned for amazing things!
